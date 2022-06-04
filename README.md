@@ -1,4 +1,7 @@
 # Student_management_system
+
+Welcome to Komali's Student management portal
+
 A Full Stack Web Application built with Node.js, Express.js, MongoDB and Bootstrap for managing all the tasks and activities of a student within an Institution.
 
 # Roles
